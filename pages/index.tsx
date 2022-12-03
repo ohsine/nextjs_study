@@ -4,7 +4,10 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className="">
+    <div>
+      <Head>
+        <title>Home | 넥스트</title>
+      </Head>
       create-next-app으로 설치하면
       <br />
       1. 컴파일과 번들링이 자동으로 된다 (webpack과 babel)

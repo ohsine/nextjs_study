@@ -1,0 +1,13 @@
+.Top__Wrapper {
+    display: flex;
+    padding-top: 20px;
+}
+
+.Top__Image {
+    flex: 100px 0 0;
+}
+
+.Top__Image img {
+    display: block;
+    width: 80px;
+}
